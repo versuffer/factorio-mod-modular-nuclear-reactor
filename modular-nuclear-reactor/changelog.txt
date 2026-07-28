@@ -1,0 +1,16 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 28. 07. 2026
+  Major Features:
+    - Initial release
+  Entities:
+    - "Modular nuclear reactor" entity ADDED
+  Recipes:
+    - "Modular nuclear reactor" recipe ADDED
+  Items:
+    - "Modular nuclear reactor" item ADDED
+  Research:
+    - "Modular nuclear reactor" technology ADDED
+  Settings:
+    - "Enable Modular nuclear reactor power output adjustment" setting ADDED
+    - "Modular nuclear reactor power output, kW" setting ADDED

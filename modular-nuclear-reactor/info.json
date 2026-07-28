@@ -1,0 +1,13 @@
+{
+  "name": "modular-nuclear-reactor",
+  "version": "1.0.0",
+  "title": "Modular Nuclear Reactor",
+  "author": "versuffer",
+  "description": "Adds integrated version of nuclear reactor that combines reactor, heat exchangers and generator in a single unit. Directly produces electricity, needs no water and consumes nuclear fuel on demand. Tradeoff for such convenience is the lack of neighbour bonus and smaller power output comparing to original reactor. Ideal for space platforms, backup power supply systems and remote outposts as an efficient, zero-pollution and compact baseline power source. Power output can be adjusted in settings.",
+  "factorio_version": "2.0",
+  "space_travel_required": true,
+  "dependencies": [
+    "base >= 2.0.0",
+    "space-age >= 2.0.0"
+  ]
+}
