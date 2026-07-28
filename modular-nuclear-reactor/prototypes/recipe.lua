@@ -1,7 +1,7 @@
 local modular_nuclear_reactor_recipe = {
     type = "recipe",
     name = "modular-nuclear-reactor",
-    category = "crafting-with-fluid",
+    categories = {"crafting-with-fluid"},
     enabled = false,
     energy_required = 32,
     ingredients =
