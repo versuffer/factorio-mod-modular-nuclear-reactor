@@ -1,4 +1,15 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.120.0
+Date: 31. 07. 2026
+  Entities:
+    - "Modular nuclear reactor" explosion on death ADDED
+    - If reactor has more than 80% of burning fuel left, it will explode on death - check control.lua
+---------------------------------------------------------------------------------------------------
+Version: 1.0.2
+Date: 29. 07. 2026
+  Minor changes:
+    - Compatibility with Factorio 2.1 ADDED
+---------------------------------------------------------------------------------------------------
 Version: 1.0.1
 Date: 28. 07. 2026
   Locale:
